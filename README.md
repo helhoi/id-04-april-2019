@@ -1,2 +1,2 @@
-# oppgavesett05
-Dette er løsningsforslaget mitt på oppgavesett 5
+# id-04-april-2019
+Løsningsforslagene mine
